@@ -12,7 +12,7 @@ This repository contains a small arithmetic expression calculator, that supports
 Install [scala-cli], either by using a version manager like [mise]/[asdf] or by
 [getting Scala 3.5](https://scala-lang.org/download/) from the website (which since version 3.5 bundles scala-cli).
 
-To run the tests, issue `scala-cli test .`.
+To run the tests, issue `scala-cli test .`
 
 To run against a file of expressions:
 
